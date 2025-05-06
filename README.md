@@ -3,12 +3,14 @@
 A simple frontend clone of the **Study Sync** website. This project demonstrates a responsive layout with HTML, CSS, and images — replicating a familiar UI design for study or learning platforms.
 
 ## 📁 Project Structure
+```
 ├── Index.html # Main HTML file
 ├── README.md # Project documentation
 ├── StudySimage # Folder containing icons/images
 │ ├── Hamburger_icon.svg.png
 │ └── Hamburger.svg.png
 └── style.css # CSS styling file
+```
 
 ## 🚀 Features
 
